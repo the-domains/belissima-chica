@@ -1,4 +1,3 @@
-layout_spectrum: 0.8833004757761955
 typography_spectrum: 0.7983847944997251
 color:
   brandStrength: 0.8606147230602801
@@ -11,5 +10,9 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.8833004757761955
+logo: null
 name: Belissima Chica
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b776038e-1d9d-42fa-ae7e-c5c590d8ef6e.jpg
 title: Bringing Your Inner Beauty Out
